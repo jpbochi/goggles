@@ -1,0 +1,66 @@
+! name: Liberty Sources
+! description: Rank results to boost liberty sources, and downrank authoritarian ones.
+! public: false
+! author: JP B
+! avatar: #ffd700
+! license: BipCot NoGov Software License https://bipcot.org/stuff/BipCotNoGovSoftwareLicense-v1point2-software.txt
+! issues: https://github.com/jpbochi/goggles/issues
+! homepage: https://github.com/jpbochi/goggles
+
+! version: 0.0.1
+! Inspired by https://github.com/allsides-news/brave-goggles
+! The list below is just an initial take. It needs be fine-tuned. And, naturally, opinions about it may vary.
+
+$boost=5,site=mises.org
+$boost=5,site=antiwar.com
+$boost=5,site=libertarianinstitute.org
+$boost=5,site=ronpaulinstitute.org
+$boost=4,site=fee.org
+$boost=4,site=brownstone.org
+$boost=4,site=aier.org
+$boost=4,site=tenthamendmentcenter.com
+$boost=4,site=abbevilleinstitute.org
+$boost=3,site=missliberty.com
+$boost,site=wearechange.org
+$boost,site=ianmsc.substack.com
+$boost,site=boriquagato.substack.com
+$boost,site=rwmalonemd.substack.com
+$boost,site=alexberenson.substack.com
+$boost,site=reclaimthenet.org
+$boost,site=lewrockwell.com
+$boost,site=schiffgold.com
+$boost,site=manhattan-institute.org
+$boost,site=blog.heartland.org
+$boost,site=off-guardian.org
+$boost,site=rationalground.com
+$boost,site=babylonbee.com
+$boost,site=reason.com
+$boost,site=reason.org
+$boost,site=projectveritas.com
+$boost,site=mercatus.org
+$boost,site=city-journal.org
+$boost,site=thefederalist.com
+$boost,site=thelibertarianrepublic.com
+$boost,site=zerohedge.com
+$boost,site=odysee.com
+$boost,site=bitchute.com
+$boost,site=theblaze.com
+
+$downrank,site=nytimes.com
+$downrank,site=cnn.com
+$downrank,site=theguardian.com
+$downrank,site=bbc.com
+$downrank,site=washingtonpost.com
+$downrank,site=theatlantic.com
+$downrank,site=politico.com
+$downrank,site=cnbc.com
+$downrank,site=time.com
+$downrank,site=wired.com
+$downrank,site=vox.com
+$downrank,site=thedailybeast.com
+$downrank,site=mediamatters.org
+$downrank,site=huffpost.com
+$downrank,site=msnbc.com
+$downrank,site=buzzfeednews.com
+$downrank,site=alternet.org
+$downrank,site=abcnews.go.com
