@@ -1,6 +1,6 @@
 ! name: Liberty Sources (v0.1)
 ! description: Rank results to boost liberty sources, and downrank authoritarian ones.
-! public: public
+! public: true
 ! author: JP B
 ! avatar: #ffd700
 ! license: BipCot NoGov Software License https://bipcot.org/stuff/BipCotNoGovSoftwareLicense-v1point2-software.txt
