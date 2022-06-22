@@ -1,13 +1,12 @@
-! name: Liberty Sources
+! name: Liberty Sources (v0.1)
 ! description: Rank results to boost liberty sources, and downrank authoritarian ones.
-! public: false
+! public: public
 ! author: JP B
 ! avatar: #ffd700
 ! license: BipCot NoGov Software License https://bipcot.org/stuff/BipCotNoGovSoftwareLicense-v1point2-software.txt
 ! issues: https://github.com/jpbochi/goggles/issues
 ! homepage: https://github.com/jpbochi/goggles
 
-! version: 0.0.1
 ! Inspired by https://github.com/allsides-news/brave-goggles
 ! The list below is just an initial take. It needs be fine-tuned. And, naturally, opinions about it may vary.
 
