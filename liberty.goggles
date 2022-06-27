@@ -1,4 +1,4 @@
-! name: Liberty Sources (v0.1)
+! name: Liberty Sources (v0.1.1)
 ! description: Rank results to boost liberty sources, and downrank authoritarian ones.
 ! public: true
 ! author: JP B
@@ -10,19 +10,22 @@
 ! Inspired by https://github.com/allsides-news/brave-goggles
 ! The list below is just an initial take. It needs be fine-tuned. And, naturally, opinions about it may vary.
 
-$boost=5,site=mises.org
-$boost=5,site=antiwar.com
-$boost=5,site=libertarianinstitute.org
-$boost=5,site=ronpaulinstitute.org
-$boost=4,site=fee.org
-$boost=4,site=brownstone.org
-$boost=4,site=aier.org
-$boost=4,site=tenthamendmentcenter.com
-$boost=4,site=abbevilleinstitute.org
-$boost=3,site=missliberty.com
+! To refresh the Goggle after a change, go to https://search.brave.com/goggles/create
+! And use https://github.com/jpbochi/goggles/blob/master/liberty.goggles
+
+$boost=10,site=mises.org
+$boost=10,site=antiwar.com
+$boost=9,site=libertarianinstitute.org
+$boost=9,site=ronpaulinstitute.org
+$boost=8,site=fee.org
+$boost=8,site=brownstone.org
+$boost=8,site=aier.org
+$boost=8,site=tenthamendmentcenter.com
+$boost=8,site=abbevilleinstitute.org
+$boost=5,site=missliberty.com
+$boost=5,site=boriquagato.substack.com
 $boost,site=wearechange.org
 $boost,site=ianmsc.substack.com
-$boost,site=boriquagato.substack.com
 $boost,site=rwmalonemd.substack.com
 $boost,site=alexberenson.substack.com
 $boost,site=reclaimthenet.org
@@ -38,12 +41,22 @@ $boost,site=reason.org
 $boost,site=projectveritas.com
 $boost,site=mercatus.org
 $boost,site=city-journal.org
-$boost,site=thefederalist.com
 $boost,site=thelibertarianrepublic.com
+$boost,site=childrenshealthdefense.org
+
+! Some of these are not particularly pro-liberty, but share the same enemies.
+! If anything, they are boosted as a way to counter the "downrank" they get everywhere.
+$boost,site=thefederalist.com
+$boost,site=thegrayzone.com
 $boost,site=zerohedge.com
 $boost,site=odysee.com
 $boost,site=bitchute.com
 $boost,site=theblaze.com
+$boost,site=breitbart.com
+$boost,site=thegatewaypundit.com
+$boost,site=mintpressnews.com
+$boost,site=washingtonexaminer.com
+$boost,site=wattsupwiththat.com
 
 $downrank,site=nytimes.com
 $downrank,site=cnn.com
@@ -52,6 +65,7 @@ $downrank,site=bbc.com
 $downrank,site=washingtonpost.com
 $downrank,site=theatlantic.com
 $downrank,site=politico.com
+$downrank,site=nbcnews.com
 $downrank,site=cnbc.com
 $downrank,site=time.com
 $downrank,site=wired.com
