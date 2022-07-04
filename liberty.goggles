@@ -1,4 +1,4 @@
-! name: Liberty Sources (v0.1.3)
+! name: Liberty Sources (v0.1.4)
 ! description: Rank results to boost liberty sources, and downrank authoritarian ones.
 ! public: true
 ! author: JP B
@@ -21,9 +21,10 @@ $boost=8,site=fee.org
 $boost=8,site=brownstone.org
 $boost=8,site=aier.org
 $boost=8,site=tenthamendmentcenter.com
-$boost=8,site=abbevilleinstitute.org
-$boost=5,site=missliberty.com
-$boost=5,site=boriquagato.substack.com
+$boost=7,site=johnstossel.com
+$boost=6,site=missliberty.com
+$boost=6,site=boriquagato.substack.com
+$boost=6,site=abbevilleinstitute.org
 $boost=4,site=goldwaterinstitute.org
 $boost=4,site=manhattan-institute.org
 $boost=4,site=mercatus.org
