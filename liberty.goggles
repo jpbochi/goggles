@@ -1,4 +1,4 @@
-! name: Liberty Sources (v0.1.2)
+! name: Liberty Sources (v0.1.3)
 ! description: Rank results to boost liberty sources, and downrank authoritarian ones.
 ! public: true
 ! author: JP B
@@ -24,6 +24,10 @@ $boost=8,site=tenthamendmentcenter.com
 $boost=8,site=abbevilleinstitute.org
 $boost=5,site=missliberty.com
 $boost=5,site=boriquagato.substack.com
+$boost=4,site=goldwaterinstitute.org
+$boost=4,site=manhattan-institute.org
+$boost=4,site=mercatus.org
+$boost=4,site=city-journal.org
 $boost=3,site=unherd.com
 $boost,site=wearechange.org
 $boost,site=ianmsc.substack.com
@@ -32,7 +36,6 @@ $boost,site=alexberenson.substack.com
 $boost,site=reclaimthenet.org
 $boost,site=lewrockwell.com
 $boost,site=schiffgold.com
-$boost,site=manhattan-institute.org
 $boost,site=blog.heartland.org
 $boost,site=off-guardian.org
 $boost,site=rationalground.com
@@ -40,8 +43,6 @@ $boost,site=babylonbee.com
 $boost,site=reason.com
 $boost,site=reason.org
 $boost,site=projectveritas.com
-$boost,site=mercatus.org
-$boost,site=city-journal.org
 $boost,site=thelibertarianrepublic.com
 $boost,site=childrenshealthdefense.org
 
