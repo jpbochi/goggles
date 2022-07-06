@@ -1,4 +1,4 @@
-! name: Liberty Sources (v0.1.4)
+! name: Liberty Sources (v0.1.5)
 ! description: Rank results to boost liberty sources, and downrank authoritarian ones.
 ! public: true
 ! author: JP B
@@ -43,6 +43,7 @@ $boost,site=rationalground.com
 $boost,site=babylonbee.com
 $boost,site=reason.com
 $boost,site=reason.org
+$boost,site=thecountersignal.com
 $boost,site=projectveritas.com
 $boost,site=thelibertarianrepublic.com
 $boost,site=childrenshealthdefense.org
