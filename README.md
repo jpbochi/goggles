@@ -1,0 +1,1 @@
+- https://search.brave.com/goggles?goggles_id=https%3A%2F%2Fraw.githubusercontent.com%2Fjpbochi%2Fgoggles%2Fmaster%2Fliberty.goggles
